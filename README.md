@@ -11,11 +11,19 @@ A cosmetic RuneLite plugin that adds small pastel sparkles around your character
 
 ## Installation
 
+<<<<<<< HEAD
 Once approved and published, search for Fairy Magic Trail in the RuneLite Plugin Hub and install it.
 
 ## Development
 
 Build the project on Windows:
+=======
+After approval and publication in the RuneLite Plugin Hub, search for Fairy Magic Trail in the plugin panel and install it.
+
+## Development
+
+Build on Windows:
+>>>>>>> 1ef818e (Update README)
 
 `.\gradlew.bat build`
 
