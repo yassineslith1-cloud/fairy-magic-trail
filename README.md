@@ -1,47 +1,23 @@
-# \# Fairy Magic Trail
+﻿# Fairy Magic Trail
 
-#
+A RuneLite plugin that adds small pastel sparkles around your character while moving.
 
-# A cosmetic RuneLite plugin that creates small pastel sparkles around your character while moving.
+## Features
 
-#
+- Small pastel sparkles in pink, purple, blue, and white.
+- Sparkles drift slightly and fade away over time.
+- Configurable sparkle size and lifetime.
 
-# \## Features
+## Installation
 
-#
+After approval, search for Fairy Magic Trail in the RuneLite Plugin Hub and install it.
 
-# \- Small pastel-colored sparkles.
+## Development
 
-# \- Pink, purple, and blue magical effects.
+Build on Windows with:
 
-# \- Sparkles fade away over time.
+    .\gradlew.bat build
 
-# \- Configurable sparkle size and lifetime.
+Run the development client with:
 
-#
-
-# \## Installation
-
-#
-
-# Once approved and published in the RuneLite Plugin Hub, search for Fairy Magic Trail in the plugin panel and install it.
-
-#
-
-# \## Development
-
-#
-
-# Build the project on Windows:
-
-#
-
-# &#x20;   .\\gradlew.bat build
-
-#
-
-# Launch the development client:
-
-#
-
-# &#x20;   .\\gradlew.bat run
+    .\gradlew.bat run
